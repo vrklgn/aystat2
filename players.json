@@ -1,0 +1,19 @@
+{
+    "players": {
+        "Stan64 x Pälsis": {
+            "player": 1,
+            "name": "Stan64 x Pälsis",
+            "points": 0
+        },
+        "Rockabilly Joe x BaakaNinja": {
+            "player": 2,
+            "name": "Rockabilly Joe x BaakaNinja",
+            "points": 0
+        },
+        "Neophos x Eleton": {
+            "player": 3,
+            "name": "Neophos x Eleton",
+            "points": 0
+        }
+    }
+}

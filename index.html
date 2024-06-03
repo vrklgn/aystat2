@@ -1,0 +1,46 @@
+<html ng-app="app">
+    <head>
+        <title>Jeopardo64</title>
+        <link rel="stylesheet" href="css/pure-min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <script src="lib/angular.min.js"></script>
+        <script src="lib/angular-animate.js"></script>
+        <script src="lib/jquery-1.11.0.min.js"></script>
+        <script src="lib/jquery-migrate-1.2.1.min.js"></script>
+        <script src="lib/underscore-min.js"></script>
+        <script src="src/app/app.js"></script>
+
+    </head>
+    <body ng-controller="mainController">
+    <audio id="myAudioTag" src="/audio/bidup.mp3" preload="auto"></audio>
+    <div ng-show="displayMode == 'board'" class="pure-u-4-5 j-set-wrapper">
+        <div class="pure-u-1-6 j-set-headers" ng-repeat="(k,v) in currentBoard">
+            <div class="j-header">{{k}}</div>
+        </div>
+        <div class="j-set" ng-repeat="x in columns">
+            <div class="pure-u-1-6 j-value-row" ng-repeat="(k,v) in currentBoard">
+                <div class="j-value" ng-class="{hiddenValue: getVisibility(k,x-1)}" ng-click="showAnswer(k,x-1)">{{x*round}}00</div>
+            </div>
+        </div>
+    </div>
+    <div class="j-splash" ng-show="displayMode == 'splash'" ng-click="showBoard()">
+        <img src="images/quiz.png" class="j-splash-text">
+    </div>
+    <div class="j-question" ng-show="displayMode == 'answer'" ng-click="showBoard()">
+        <span class="j-question-text">{{currentAnswer}}</span>
+    </div>
+    <div class="j-question j-player-{{currentAnswerer.player}}"  ng-show="displayMode == 'player'" ng-click="returnToAnswer()">
+        <span class="j-question-text">{{currentAnswerer.name}}</span>
+    </div>
+    <div class="j-score-wrapper" ng-show="displayMode == 'score'" ng-click="transitionToBoard()">
+        <div class="j-transition-wrapper"><span class="j-transition-text">{{transitionText}}</span></div>
+        <div class="j-score-player" ng-repeat="(k,v) in players">
+            <div class="j-score-text">
+                <span class="j-score-name">{{k}}</span>
+                <br>
+                <span class="j-score-points">{{v.points}}</span>
+            </div>
+        </div>
+    </div>
+    </body>
+</html>
