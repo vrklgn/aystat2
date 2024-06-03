@@ -1,0 +1,337 @@
+{
+    "answers": {
+        "firstBoard": {
+            "Kända Memes": [
+                {
+                    "answer": "Äventyrslusten ungdom avslutar sin karriär efter svår skada i benet...",
+                    "question": "Vad är “I Took An Arrow To The Knee”?",
+                    "played": false
+                },
+                {
+                    "answer": "Aristokratisk herre omber dig att inspektera hans ståtliga kuse",
+                    "question": "Vad är “Look at my horse”?",
+                    "played": false
+                },
+                {
+                    "answer": "Den utlovade belöningen var endast en fiktiv drivkraft",
+                    "question": "Vad är “The Cake Is A Lie”?",
+                    "played": false
+                },
+                {
+                    "answer": "Plats i södra grekland som omnämns i Frank Miller serie",
+                    "question": "Vad är “Var är Sparta?”?",
+                    "played": false
+                },
+                {
+                    "answer": "Denna Josh blev en synonym för sarkasm i streaming",
+                    "question": "Vem är Josh Kappa?",
+                    "played": false
+                }
+            ],
+            "Spel-Jeopardy": [
+                {
+                    "answer": "In a recent release from Sega, this title character & his pal sonic visit the 2010 Winter Olympics",
+                    "question": "Who Is Mario",
+                    "played": false
+                },
+                {
+                    "answer": "The Adventure Continues is the second installment in the lego game starring this state-named movie hero",
+                    "question": "Who is Indiana Jones",
+                    "played": false
+                },
+                {
+                    "answer": "Attack of The Saiyans is an installment for the Z Series of this Nintendo “Ball” Game",
+                    "question": "What is Dragonball",
+                    "played": false
+                },
+                {
+                    "answer": "In 2009 this Nintendo Professor moved from “The Curious Village” to “The Diabolical Box",
+                    "question": "Who is Professor Layton",
+                    "played": false
+                },
+                {
+                    "answer": "The title princess of this game was based off of Scott F. Fitzgerald's wife",
+                    "question": "What is The Legend of Zelda",
+                    "played": false
+                }
+            ],
+            "Tim 'Freakin' Schafer": [
+                {
+                    "answer": "År 2000 lämnade Tim Schafer LucasArts för att starta en egen utvecklingsstudio, detta blev namnet.",
+                    "question": "Vad är Double Fine",
+                    "played": false
+                },
+                {
+                    "answer": "Detta är namnet på skatten som är sagd att vara den största av dem alla i spelet Monkey Island 2",
+                    "question": "Vad är Big Whoop",
+                    "played": false
+                },
+                {
+                    "answer": "Det här heter huvudkaraktären i Tim Schafers motorcykel drama Full Throttle från 1995",
+                    "question": "Vem är Ben",
+                    "played": false
+                },
+                {
+                    "answer": "3.45 Miljoner samlade Double Fine in för att skapa Double Fine Adventure, det här var titeln på den slutprodukten",
+                    "question": "Vad är Broken Age",
+                    "played": false
+                },
+                {
+                    "answer": "Det här var undertiteln till Double Fines spel där spelaren kan interagera med flera karaktärer från serien Sesame Street",
+                    "question": "Vad är Once Upon a Monster",
+                    "played": false
+                }
+            ],
+            "Slåss med oss": [
+                {
+                    "answer": "Med ett rött hårband och oändliga utrop av Hadouken är det här lätt en av fightingspelsvärldens mest igenkända karaktärer",
+                    "question": "Ryu",
+                    "played": false
+                },
+                {
+                    "answer": "Såhär heter trollkarlen som återupplivat både Ermac & Sindel i Mortal Kombat 9",
+                    "question": "Quan Chi",
+                    "played": false
+                },
+                {
+                    "answer": "Omega-svärdet och Uggle-skölden är denna kämpinnas vapen i Soul Calibur",
+                    "question": "Sophitia",
+                    "played": false
+                },
+                {
+                    "answer": "Mike Bison hette denna karaktär i Japan men vad hette han i USA?",
+                    "question": "Balrog",
+                    "played": false
+                },
+                {
+                    "answer": "Så många bonuskaraktärer fick Playstation versionen av Streetfighter x Tekken",
+                    "question": "5",
+                    "played": false
+                }
+            ],
+            "Name That Minigame!": [
+                {
+                    "answer": "Med hjälp av A och B knappen ska spelaren höja flaggor åt det hållet som denna titelkaraktär väljer",
+                    "question": "Shy Guy Says",
+                    "played": false
+                },
+                {
+                    "answer": "En grupp med igloos framträder på banan, ett djur åker på mage över banan. Akta dig.",
+                    "question": "Pushy Penguins",
+                    "played": false
+                },
+                {
+                    "answer": "Fyra spelare släpps av på en plattform omringad av Thwomps som leviterar över elektriska kanoner",
+                    "question": "Take Me Ohm",
+                    "played": false
+                },
+                {
+                    "answer": "Basketboll får en lite oväntad twist i detta Mario Party-spel",
+                    "question": "Bombsketball",
+                    "played": false
+                },
+                {
+                    "answer": "Toad ställer i detta minispel kluriga frågor om det pågående Mario Party partiet, det gäller att hålla koll.",
+                    "question": "M.P.I.Q",
+                    "played": false
+                }
+            ],
+            "Speldon": [
+                {
+                    "answer": "Känn vibrationerna i universum med detta tillbehör som pulserar intensivt till musiken",
+                    "question": "Trance Vibrator (REZ)",
+                    "played": false
+                },
+                {
+                    "answer": "Klart man älskar den här produkten, den är ju så 'Bad'; som antagonisten Lukas nämner i filmen The Wizard",
+                    "question": "Power Glove",
+                    "played": false
+                },
+                {
+                    "answer": "Skaka takten till Tequila, Livin' La Vida Loca & La Bamba i detta unika musikspel",
+                    "question": "Samba de Amigo",
+                    "played": false
+                },
+                {
+                    "answer": "Denna lilla tillbehörskrabat fick bara två spel tilldelade till sig på Nintendo",
+                    "question": "R.O.B (Robotic Operationg Buddy)",
+                    "played": false
+                },
+                {
+                    "answer": "Hela vardagsrummet är din kontroll, men bäst passar kanske tillbehöret som följde med detta Nintendospel (Förutom i Nordamerika)",
+                    "question": "Let's Tap",
+                    "played": false
+                }
+            ]
+        },
+        "secondBoard": {
+            "E3 Genom Tiderna": [
+                {
+                    "answer": "2004 - Denna guldklimp vann pris för bästa nya teknik! Mot Nintendo DS, Alienwars ALX PC, Black till PS2, Unreal Engine 3",
+                    "question": "Playstation Portable",
+                    "played": false
+                },
+                {
+                    "answer": "Livssimuator i multiplayerform som vann bästa simulations-spel på E3 2001. Spelet är känt för sitt påhittade språk.",
+                    "question": "The Sims: Online",
+                    "played": false
+                },
+                {
+                    "answer": "Man kan förundras av detta slagsmålsspel där två universum möts. Det blev utnämnt som bäst i sin klass på E3 2010.",
+                    "question": "Marvel vs Capcom 3",
+                    "played": false
+                },
+                {
+                    "answer": "Denna triologi-avslutare vann första pris av publiken under E3 2014 i kategorin Best of Show mot bland andra Super Smash & Dragon Age",
+                    "question": "The Witcher 3: Wild Hunt",
+                    "played": false
+                },
+                {
+                    "answer": "Året är 2011, Bastion, Journey och Awesomenauts förlorar kategorin Best Downloadable Game mot denna konstnärliga skilldring av alkoholism",
+                    "question": "Papo & Yo",
+                    "played": false
+                }
+            ],
+            "The Year of The Cartridge": [
+                {
+                    "answer": "Nintendo annonserar år 1994 som The Year of The Cartridge och släpper den första 24-bits kassetten någonsin med detta spel på.",
+                    "question": "Super Metroid",
+                    "played": false
+                },
+                {
+                    "answer": "Nintendos -Project Reality- byter detta år namn till vad?",
+                    "question": "Nintendo Ultra 64",
+                    "played": false
+                },{
+                    "answer": "SEGAs variant av vad man skulle kunna kalla ett expansionspaket som funkade till hela 2 olika spel",
+                    "question": "Sonic & Knuckles",
+                    "played": false
+                },
+                {
+                    "answer": "Nintendo sa The Year of The Cartridge; men detta konsolsläpp hävdade att ett annat medium var framtiden!",
+                    "question": "Sony Playstation",
+                    "played": false
+                },
+                {
+                    "answer": "Detta spel släppt under 1994 släpptes specifkt till denna ovanliga datorvariant, spelet i sig själv var en viktig del av Beckfilmen -Spår i mörker-",
+                    "question": "Marathon (Apple)",
+                    "played": false
+                }
+            ],
+            "Lost in Limbo": [
+                {
+                    "answer": "Denna uppföljare visades först 2008. frågan är om vi någonsin kommer få återse Jade och Pey'J",
+                    "question": "Beyond Good & Evil 2",
+                    "played": false
+                },
+                {
+                    "answer": "Vi blev utlovade en triologi av spel i episodformat, men vi fick bara två.",
+                    "question": "Half-Life: Episode 3 (Half-Life 3 är OK)",
+                    "played": false
+                },
+                {
+                    "answer": "Fumito Uedas efterlängtade spel med projekttiteln Project Trico",
+                    "question": "The Last Guardian",
+                    "played": false
+                },
+                {
+                    "answer": "Rockstar annonserade detta spel om spioner under kalla kriget till PS3 under 2009",
+                    "question": "Agent",
+                    "played": false
+                },
+                {
+                    "answer": "Survival Horror först annonserat till Wii och utvecklat av Nibris",
+                    "question": "Sadness (Officially Cancled)",
+                    "played": false
+                }
+            ],
+            "Spel som Spelfilm": [
+                {
+                    "answer": "Black Eyed Peas stjärnan Taboo spelade i denna fightingspelsfilm karktären Vega",
+                    "question": "Street Fighter The Legend of Chun-Li",
+                    "played": false
+                },
+                {
+                    "answer": "Med en överhängande 1% på siten Rotten Tomatoes räknas denna skräckfilm som den sämsta tvspelsbaserade filmen någonsin.",
+                    "question": "Alone In The Dark",
+                    "played": false
+                },
+                {
+                    "answer": "Mother You're alive?!, Too bad, you will die. Är bara en av många hemska replikväxlingar i denna film från 1997",
+                    "question": "Mortal Kombat Annihilation",
+                    "played": false
+                },
+                {
+                    "answer": "960 datorer krävdes för att trycka ut 141,964 bildrutor i denna sci fi film från 2001",
+                    "question": "Final Fantasy: The Spirits Whitin",
+                    "played": false
+                },
+                {
+                    "answer": "Uwe Boll är regissör till denna triologi av filmer baserade på detta skräckspel",
+                    "question": "BloodRayne",
+                    "played": false
+                }
+            ],
+            "Free to play": [
+                {
+                    "answer": "12x12 rutor, djur och utvecklat av Zynga kan nog räknas som en av de första Free to Play succerna",
+                    "question": "Farmville",
+                    "played": false
+                },
+                {
+                    "answer": "Ett nostalgiskt Free to Play MMO namngett efter ett av människans ben",
+                    "question": "Tibia",
+                    "played": false
+                },
+                {
+                    "answer": "Så här hette Peter Molyneux faschinerande Free to Play spel från 2012",
+                    "question": "Curiosity - What's Inside The Cube",
+                    "played": false
+                },
+                {
+                    "answer": "Krossa godis är populärt men Candy Crush hamnade i trubbel för att ha kopierat ett tidigare spel med detta namn",
+                    "question": "CandySwipe",
+                    "played": false
+                },
+                {
+                    "answer": "Glöm DOTA, HoN och LoL detta Moba baserar sig i Adventure Time-universumet",
+                    "question": "Adventure Time Battle Party",
+                    "played": false
+                }
+            ],
+            "The Company Formerly Known as Prince": [
+                {
+                    "answer": "Rare! Kända skapare av såväl Perfect Dark som Banjo-Kazooie ägs nu av detta enorma företag",
+                    "question": "Microsoft (Flight Simulator X)",
+                    "played": false
+                },
+                {
+                    "answer": "Konami plockade upp detta företag känd för sina explosiva karaktärer",
+                    "question": "Hudson (Bombamaan)",
+                    "played": false
+                },
+                {
+                    "answer": "Sierra var länge känd för sina peka och klicka spel, men är nu del av detta megaföretag känd för såväl orcher som spacemarines",
+                    "question": "Activition Blizzard (WOW)",
+                    "played": false
+                },
+                {
+                    "answer": "Med en start i Lemmings tog DMA Design över spelvärlden, detta heter företaget idag",
+                    "question": "Rockstar North (GTA)",
+                    "played": false
+                },
+                {
+                    "answer": "LJN är kända för dåliga spel som Friday the 13th, Who framed Roger Rabbit och Wolverine på NES, men det är egentligen ett alternativt namn för detta mer kända företag",
+                    "question": "Acclaim (TUROK)",
+                    "played": false
+                }
+            ]
+        },
+        "finalAnswer": {
+            "category": "Spelserier",
+            "answer": "Street fighter har släppts i väldigt många versioner, vissa kallar tom Street Fighter 2 för en serie i sig självt, så här många titlar består serien av idag",
+            "question": "102 Stycken",
+            "played": false
+        }
+    }
+}
